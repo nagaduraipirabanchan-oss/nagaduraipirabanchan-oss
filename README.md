@@ -17,16 +17,16 @@
 </div>
 
 ---
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-* 🎓 **MCA Graduate** from Nehru Institute of Information Technology And Management (7.84 CGPA)
-* 💻 **Full Stack Developer** building responsive and intelligent web applications
-* 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Python, React.js, Node.js, MongoDB, AWS
-* 🚀 **Fun Fact:** I trained an AI to detect unusual radio signals from space 🌌
-* 🎯 **Motto:** *Build. Break. Learn. Repeat.*
-*
+*  **MCA Graduate** from Nehru Institute of Information Technology And Management (7.84 CGPA)
+*  **Full Stack Developer** building responsive and intelligent web applications
+*  **Tech Stack:** HTML, CSS, JavaScript, Python, React.js, Node.js, MongoDB, AWS
+*  **Fun Fact:** I trained an AI to detect unusual radio signals from space 
+*  **Motto:** *Build. Break. Learn. Repeat.*
+
 
 
 <br clear="right"/>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 ---
 
-## 🏆 Trophy Wall
+## Trophy Wall
 
 <div align="center">
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 <details>
 <summary>🏢 <strong>XPAND</strong> — Web Development Intern | Jan 2024 – Mar 2024 | Periyanikenpalayam, Tamil Nadu</summary>
@@ -123,75 +123,75 @@
 
 > `HTML` `CSS` `JavaScript` `Responsive Design` `Frontend Development` `Web Optimization`
 
-- 🖥️ Built **responsive and user-friendly websites** with modern design layouts for client projects
-- 📱 Improved **mobile responsiveness** across multiple web applications, enhancing cross-device compatibility
-- ⚡ Developed **clean frontend interfaces** using HTML, CSS, and JavaScript with interactive web page features
-- 🔧 Participated in **web application development** and gained practical experience in frontend design and website optimization
+-  Built **responsive and user-friendly websites** with modern design layouts for client projects
+- Improved **mobile responsiveness** across multiple web applications, enhancing cross-device compatibility
+- Developed **clean frontend interfaces** using HTML, CSS, and JavaScript with interactive web page features
+- Participated in **web application development** and gained practical experience in frontend design and website optimization
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🖼️ **Text-to-Image Generation**](https://github.com/nagaduraipirabanchan-oss) | `Python` `Flask` `Stable Diffusion` `HTML` `CSS` `JS` | AI-powered web app generating high-quality images from text prompts · Fast image processing · Prompt customization · Image download option · Fully responsive UI |
-| [🌌 **CosmicPulse AI**](https://github.com/nagaduraipirabanchan-oss) | `Python` `Streamlit` `LSTM` `Isolation Forest` `ML` | Real-time radio signal anomaly detection · Live data visualization dashboard · Automated email notifications · AI-based signal analysis with improved accuracy |
-| [🏔️ **Adventure Tourism Website**](https://github.com/nagaduraipirabanchan-oss) | `HTML` `CSS` `JavaScript` | Responsive tourism platform · Animated navbar · Dark/light theme toggle · Smooth scroll effects · Mobile-friendly · Engaging travel exploration experience |
+| [**Text-to-Image Generation**](https://github.com/nagaduraipirabanchan-oss) | `Python` `Flask` `Stable Diffusion` `HTML` `CSS` `JS` | AI-powered web app generating high-quality images from text prompts · Fast image processing · Prompt customization · Image download option · Fully responsive UI |
+| [**CosmicPulse AI**](https://github.com/nagaduraipirabanchan-oss) | `Python` `Streamlit` `LSTM` `Isolation Forest` `ML` | Real-time radio signal anomaly detection · Live data visualization dashboard · Automated email notifications · AI-based signal analysis with improved accuracy |
+| [**Adventure Tourism Website**](https://github.com/nagaduraipirabanchan-oss) | `HTML` `CSS` `JavaScript` | Responsive tourism platform · Animated navbar · Dark/light theme toggle · Smooth scroll effects · Mobile-friendly · Engaging travel exploration experience |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## Achievements & Certifications
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
+| Achievement | Details |
 |:----|:------------|:--------|
-| 🏆 | **Web Development Internship** | XPAND — 3-month hands-on internship in frontend development |
-| ⚛️ | **React.js Certification** | NoviTech R&D Private Limited — certified in modern React development |
-| ☁️ | **AWS Workshop Certification** | Nehru Institute of Information Technology and Management |
-| 🌐 | **Web Development Certification** | CODE ALPHA — full web development program |
-| 💡 | **Enterprise Design Thinking Practitioner** | IBM — certified in design thinking methodology |
-| 🛠️ | **Amazon Web Services Workshop** | Practical cloud computing workshop — NIITM |
+|  | **Web Development Internship** | XPAND — 3-month hands-on internship in frontend development |
+| | **React.js Certification** | NoviTech R&D Private Limited — certified in modern React development |
+|  | **AWS Workshop Certification** | Nehru Institute of Information Technology and Management |
+|  | **Web Development Certification** | CODE ALPHA — full web development program |
+|  | **Enterprise Design Thinking Practitioner** | IBM — certified in design thinking methodology |
+|  | **Amazon Web Services Workshop** | Practical cloud computing workshop — NIITM |
 
 </div>
 
 ---
 
-## 🎓 Education
+##  Education
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:-----|:------|
-| 🎓 **Master of Computer Science (MCA)** | Nehru Institute of Information Technology And Management | 2024 – 2026 | **7.84 CGPA** (Till 3rd Sem) |
-| 📘 **B.Com with Computer Application** | Kongunadu Arts And Science College | 2021 – 2024 | **72%** |
-| 📗 **HSLC** | GSR Matric HR SEC School | 2020 – 2021 | **69%** |
+| **Master of Computer Science (MCA)** | Nehru Institute of Information Technology And Management | 2024 – 2026 |
+| **B.Com with Computer Application** | Kongunadu Arts And Science College | 2021 – 2024 |
+| **HSLC** | GSR Matric HR SEC School | 2020 – 2021 |
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ```
-🧱 Backend Development  →  Node.js Advanced · REST API Design · Authentication & Authorization
-☁️  Cloud Technologies   →  AWS Core Services · EC2 · S3 · Lambda · Deployment Pipelines
-🤖 AI & ML Integration  →  Deep Learning · Model Deployment · Python ML Libraries
-🏗️  System Design        →  Scalable Architectures · Database Optimization · Microservices
-⚛️  Frontend Advanced    →  Next.js · TypeScript · State Management · Performance Optimization
+Backend Development  →  Node.js Advanced · REST API Design · Authentication & Authorization
+Cloud Technologies   →  AWS Core Services · EC2 · S3 · Lambda · Deployment Pipelines
+AI & ML Integration  →  Deep Learning · Model Deployment · Python ML Libraries
+System Design        →  Scalable Architectures · Database Optimization · Microservices
+Frontend Advanced    →  Next.js · TypeScript · State Management · Performance Optimization
 ```
 
 ---
 
 <div align="center">
 
-**⭐ If you find my work interesting, consider starring my repositories!**
+**If you find my work interesting, consider starring my repositories!**
 
 *"Build. Break. Learn. Repeat."* — **Pirabanchan N**
 
