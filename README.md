@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -68,8 +68,6 @@
 ![Tally](https://img.shields.io/badge/Tally%20ERP9-0033A0?style=flat-square&logo=data&logoColor=white)
 
 ---
-
-## GitHub Stats
 
 <div align="center">
 
@@ -106,18 +104,12 @@
 
 ## Trophy Wall
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nagaduraipirabanchan-oss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/nagaduraipirabanchan-oss)
-
-</div>
-
 ---
 
 ##  Work Experience
 
 <details>
-<summary>🏢 <strong>XPAND</strong> — Web Development Intern | Jan 2024 – Mar 2024 | Periyanikenpalayam, Tamil Nadu</summary>
+<summary><strong>XPAND</strong> — Web Development Intern | Jan 2024 – Mar 2024 | Periyanikenpalayam, Tamil Nadu</summary>
 
 <br/>
 
