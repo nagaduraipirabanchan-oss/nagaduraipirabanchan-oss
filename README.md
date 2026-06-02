@@ -123,7 +123,7 @@
 
 > `HTML` `CSS` `JavaScript` `Responsive Design` `Frontend Development` `Web Optimization`
 
--  Built **responsive and user-friendly websites** with modern design layouts for client projects
+- Built **responsive and user-friendly websites** with modern design layouts for client projects
 - Improved **mobile responsiveness** across multiple web applications, enhancing cross-device compatibility
 - Developed **clean frontend interfaces** using HTML, CSS, and JavaScript with interactive web page features
 - Participated in **web application development** and gained practical experience in frontend design and website optimization
@@ -143,52 +143,11 @@
 | [**Adventure Tourism Website**](https://github.com/nagaduraipirabanchan-oss) | `HTML` `CSS` `JavaScript` | Responsive tourism platform · Animated navbar · Dark/light theme toggle · Smooth scroll effects · Mobile-friendly · Engaging travel exploration experience |
 
 </div>
-
----
-
-## Achievements & Certifications
-
-<div align="center">
-
-| Achievement | Details |
-|:----|:------------|:--------|
-|  | **Web Development Internship** | XPAND — 3-month hands-on internship in frontend development |
-| | **React.js Certification** | NoviTech R&D Private Limited — certified in modern React development |
-|  | **AWS Workshop Certification** | Nehru Institute of Information Technology and Management |
-|  | **Web Development Certification** | CODE ALPHA — full web development program |
-|  | **Enterprise Design Thinking Practitioner** | IBM — certified in design thinking methodology |
-|  | **Amazon Web Services Workshop** | Practical cloud computing workshop — NIITM |
-
-</div>
-
----
-
-##  Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:-----|:------|
-| **Master of Computer Science (MCA)** | Nehru Institute of Information Technology And Management | 2024 – 2026 |
-| **B.Com with Computer Application** | Kongunadu Arts And Science College | 2021 – 2024 |
-| **HSLC** | GSR Matric HR SEC School | 2020 – 2021 |
-
-</div>
-
----
-
-## Currently Learning
-
-```
 Backend Development  →  Node.js Advanced · REST API Design · Authentication & Authorization
 Cloud Technologies   →  AWS Core Services · EC2 · S3 · Lambda · Deployment Pipelines
 AI & ML Integration  →  Deep Learning · Model Deployment · Python ML Libraries
 System Design        →  Scalable Architectures · Database Optimization · Microservices
 Frontend Advanced    →  Next.js · TypeScript · State Management · Performance Optimization
-```
-
----
-
 <div align="center">
 
 **If you find my work interesting, consider starring my repositories!**
@@ -202,3 +161,5 @@ Frontend Advanced    →  Next.js · TypeScript · State Management · Performan
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+
