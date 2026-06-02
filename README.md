@@ -17,37 +17,17 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
-const pirabanchan = {
-  name: "Pirabanchan N",
-  location: "Tamil Nadu, India 🇮🇳",
-  degree: "Master of Computer Science (MCA) — 2024-2026",
-  college: "Nehru Institute of Information Technology And Management",
+* 🎓 **MCA Graduate** from Nehru Institute of Information Technology And Management (7.84 CGPA)
+* 💻 **Full Stack Developer** building responsive and intelligent web applications
+* 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Python, React.js, Node.js, MongoDB, AWS
+* 🚀 **Fun Fact:** I trained an AI to detect unusual radio signals from space 🌌
+* 🎯 **Motto:** *Build. Break. Learn. Repeat.*
+*
 
-  stack: [
-    "HTML", "CSS", "JavaScript", "Python",
-    "React.js", "Node.js", "Express.js",
-    "Flask", "Streamlit", "Bootstrap",
-    "MongoDB", "AWS"
-  ],
-
-  currentlyLearning: [
-    "Advanced Backend Development",
-    "Cloud Technologies (AWS)",
-    "Machine Learning Integration",
-    "System Design"
-  ],
-
-  funFact: "I trained an AI to detect unusual radio signals from space 🌌",
-
-  motto: () => "Build. Break. Learn. Repeat. 🚀"
-};
-```
 
 <br clear="right"/>
 
